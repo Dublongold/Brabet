@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Brabet</string>
+    <string name="how_to_play_dialog_title">How to play?</string>
+    <string name="how_to_play_dialog_text">This is a matching game where you have to match the same items in a combination of at least 3 identical items. At the bottom of the screen level, you\'ve got a target for the sort of items you\'ll have to deal with. Compilation of 3 elements counts 1 point towards the goal. Each level has a limited time to complete.</string>
+    <string name="ok_button_text">OK</string>
+    <string name="play_game_button_text">Play Game</string>
+    <string name="privacy_policy_text">text</string>
+    <string name="privacy_policy_title">Privacy Policy</string>
+    <string name="select_level_title">Select Level</string>
+    <string name="level_title">Level - %1$s</string>
+    <string name="timer_text">Timer: %1$s</string>
+    <string name="paused_game_dialog_title">Game Paused</string>
+    <string name="resume_button_text">Resume</string>
+    <string name="restart_game_button_text">Restart Game</string>
+    <string name="main_menu_button_text">Main Menu</string>
+    <string name="win_dialog_title">You win!</string>
+    <string name="next_level_button_text">Next level</string>
+    <string name="play_again_button_text">Play Again</string>
+    <string name="lose_dialog_title">Try again...</string>
+    <string name="try_again_button_text">Try Again</string>
+</resources>
