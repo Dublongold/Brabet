@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Brabet</string>
+    <string name="app_name">Bebr brabet</string>
     <string name="how_to_play_dialog_title">How to play?</string>
     <string name="how_to_play_dialog_text">This is a matching game where you have to match the same items in a combination of at least 3 identical items. At the bottom of the screen level, you\'ve got a target for the sort of items you\'ll have to deal with. Compilation of 3 elements counts 1 point towards the goal. Each level has a limited time to complete.</string>
     <string name="ok_button_text">OK</string>
