@@ -13,11 +13,11 @@ val properties = Properties()
 properties.load(DataInputStream(project.rootProject.file("local.properties").inputStream()))
 
 android {
-    namespace = "com.missapps.brabet"
+    namespace = "com.bbbrbetss.comebbrabettt.app"
     compileSdk = 33
 
     defaultConfig {
-        applicationId = "com.missapps.brabet"
+        applicationId = "com.bbbrbetss.comebbrabettt.app"
         minSdk = 21
         targetSdk = 33
         versionCode = 1
@@ -99,6 +99,8 @@ dependencies {
     implementation(platform("com.google.firebase:firebase-bom:32.3.1"))
     implementation("com.google.firebase:firebase-analytics-ktx")
     implementation("com.google.firebase:firebase-config-ktx")
+
+    implementation("com.onesignal:OneSignal:5.0.2")
 
     implementation("org.jetbrains.kotlinx:kotlinx-serialization-json:1.6.0")
 }

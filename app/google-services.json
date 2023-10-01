@@ -1,21 +1,21 @@
 {
   "project_info": {
-    "project_number": "748163647999",
-    "project_id": "brabet-540b8",
-    "storage_bucket": "brabet-540b8.appspot.com"
+    "project_number": "925146194153",
+    "project_id": "bebr-brabet",
+    "storage_bucket": "bebr-brabet.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:748163647999:android:6c1a803b2234a28f517fca",
+        "mobilesdk_app_id": "1:925146194153:android:779a7dff02b34d489e5078",
         "android_client_info": {
-          "package_name": "com.missapps.brabet"
+          "package_name": "com.bbbrbetss.comebbrabettt.app"
         }
       },
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyAxQv32wo7_NejsPWuYDxRLPR4edaYbAgg"
+          "current_key": "AIzaSyC_pbpb29fvhWc_D6EuPJ4ZUT-2yhgufdg"
         }
       ],
       "services": {
